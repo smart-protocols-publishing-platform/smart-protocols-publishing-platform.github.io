@@ -1,0 +1,19 @@
+title: SMART Protocols Publishing Platform
+author: SMARTProtocols
+email: oxgiraldo@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Using Semantics and Natural Language Processing in Experimental Protocols
+github_username:  SMARTProtocols
+
+header_pages:
+  - tool.html
+  - ontology.html
+  - usecases.html
+  - dataset.html
+
+# Build settings
+markdown: kramdown
+theme: minima
+exclude:
+  - Gemfile
+  - Gemfile.lock
